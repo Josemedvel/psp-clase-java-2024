@@ -2,6 +2,7 @@ package primer_ejemplo;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Este programa crea tres hilos y establece sus prioridades");
         HiloClase hilo1 = new HiloClase("Hilo_1");
         HiloClase hilo2 = new HiloClase("Hilo_2");
         HiloClase hilo3 = new HiloClase("Hilo_3");
