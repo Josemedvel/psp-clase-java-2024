@@ -1,7 +1,7 @@
-package ejercicios.reloj;
+package ut2.ejercicios.reloj;
 
-public class HiloTIC extends Thread{
-    private String cadena = "TIC\n";
+public class HiloTAC extends Thread{
+    private String cadena = "\tTAC\n";
 
     @Override
     public void run(){

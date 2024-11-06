@@ -1,4 +1,4 @@
-package primer_ejemplo;
+package ut2.ejemplos.primer_ejemplo;
 
 public class Main {
     public static void main(String[] args) {

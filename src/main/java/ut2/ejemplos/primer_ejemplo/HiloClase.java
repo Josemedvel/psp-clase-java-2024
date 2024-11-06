@@ -1,4 +1,4 @@
-package primer_ejemplo;
+package ut2.ejemplos.primer_ejemplo;
 
 public class HiloClase extends Thread{
     public HiloClase(String nombre){

@@ -1,4 +1,4 @@
-package demonios;
+package ut2.ejemplos.demonios;
 
 public class HiloDemonio extends Thread{
     private int contador = 0;

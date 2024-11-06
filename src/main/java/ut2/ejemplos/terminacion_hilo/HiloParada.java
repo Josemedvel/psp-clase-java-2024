@@ -1,4 +1,4 @@
-package terminacion_hilo;
+package ut2.ejemplos.terminacion_hilo;
 
 public class HiloParada extends Thread{
     private boolean ejecucion = true;

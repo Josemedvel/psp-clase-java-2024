@@ -1,4 +1,4 @@
-package formas_hilo;
+package ut2.ejemplos.formas_hilo;
 
 public class HiloRunnable implements Runnable{
     @Override

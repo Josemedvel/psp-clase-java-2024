@@ -1,4 +1,4 @@
-package ejercicios.reloj;
+package ut2.ejercicios.reloj;
 
 public class Main {
     public static void main(String[] args) {
